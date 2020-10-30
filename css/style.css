@@ -1,0 +1,53 @@
+.section {
+	padding: 30px 0;
+}
+
+.title {
+	font-size: 20px;
+	line-height: 1.5;<!DOCTYPE html>
+	margin: 60px auto;
+}
+
+.title span {
+	display: block;
+}
+
+.title strong {
+	font-weight: 900;
+}
+
+.form {
+	border: 5px solid #2727d9;
+	padding: 30px 20px;
+}
+
+.form input {
+	margin-bottom: 12px;
+}
+
+.form_title {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+
+.form-btn {
+	margin: 12px auto;
+	background-color: #593ec7;
+}
+
+.feature p {
+	margin-top: 20px;
+}
+
+.feature {
+	margin-bottom: 60px;
+}
+
+.video {
+	margin-bottom: 30px;
+}
+
+.feature_box {
+	height: 160px;
+}
